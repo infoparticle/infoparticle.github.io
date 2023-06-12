@@ -7,5 +7,4 @@ draft: false
 ---
 
 Welcome to my blog!
-
 All opinions expressed in this blog are mine and are not representative of the organization/clients with whom I work.
